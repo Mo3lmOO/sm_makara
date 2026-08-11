@@ -5,7 +5,7 @@
 #pragma semicolon 1
 #pragma newdecls required
 
-#define MAKARA_API_KEY ""
+#define MAKARA_API_KEY "your_key"  // go to "https://aistudio.google.com" and create account after that go to "https://aistudio.google.com/api-keys" create ur key then put it here 
 
 #define MAKARA_MAX_QUESTIONS 3
 #define MAKARA_COOLDOWN_TIME 40.0
